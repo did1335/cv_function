@@ -9,3 +9,5 @@ newWindow.cpp:add new window and auto size
               form:void newWindow(String name)
 
 function.h:header files
+
+opencvinstall.sh:the command fot installing opencv
